@@ -1,0 +1,78 @@
+.heading{
+	width: 70%;
+	margin: 30px auto;
+	text-align: center;
+	color: 	white;
+	background: grey;
+	border: 3px solid grey;
+	border-radius: 20px;
+}
+form{
+	width: 50%; 
+	margin: 30px auto; 
+	border-radius: 10px; 
+	padding: 10px;
+	background: white;
+	border: 1px solid grey;
+}
+.task_input{
+	width: 80%;
+	height: 20px;
+	border: 2px solid grey;
+	padding: 10px;
+}
+.button_input{
+	height:40px;
+	background: #0066ff;
+	color: white
+}
+
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+tr {
+	border-bottom: 1px solid #cbcbcb;
+}
+
+th {
+	font-size: 19px;
+	color: black;
+
+}
+
+th, td{
+	border: none;
+    height: 30px;
+    padding: 2px;
+}
+
+.checked{
+	text-align: center;
+}
+
+tr:hover {
+	background: #E9E9E9;
+}
+.delete{
+	text-align: center;
+}
+.delete a{
+	color: white;
+	background: #a52a2a;
+	padding: 1px 6px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+.edit{
+	text-align: center;
+}
+.edit a{
+	color: white;
+	background: #0066ff;
+	padding: 1px 6px;
+	border-radius: 3px;
+	text-decoration: none;
+}
