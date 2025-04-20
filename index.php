@@ -1,7 +1,8 @@
 
 <?php 
 require 'model.php';
-
+//this is a test comment
+//this is a test comment 2 for 2nd commit
  ?>
 <!DOCTYPE html>
 <html>
